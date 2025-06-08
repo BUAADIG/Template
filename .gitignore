@@ -7,8 +7,8 @@ env/
 *.env
 .DS_Store
 .vscode/
-data/*
+# data/*
 !data/README.md
-model/*
+# model/*
 !model/README.md
 results/*
