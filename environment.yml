@@ -1,0 +1,14 @@
+name: your-env-name
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pytorch
+  - scikit-learn
+  - matplotlib
+  - pandas
+  - pip
+  - pip:
+      - tqdm

@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite the following paper:"
+title: "Your Paper Title"
+authors:
+  - family-names: A
+    given-names: Alice
+  - family-names: B
+    given-names: Bob
+  - family-names: C
+    given-names: Charlie
+date-released: 2025-06-01
+doi: 10.1234/yourdoi.2025
+url: https://github.com/YourLab/your-project
