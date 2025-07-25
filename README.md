@@ -1,17 +1,11 @@
-# Project Title
+# Research Title
 
-Short description of the research and project.
+  [Paper Title](link-to-paper)  
+  Authors: A, B, C  
+  Published in: Conference/Journal Year
 
-## 🚀 Paper
-
-[Paper Title](link-to-paper)  
-Authors: A, B, C  
-Published in: Conference/Journal Year
-
-## 📦 Features
-
-- Feature 1
-- Feature 2
+· Short and key description of the research.
+· Architecture graph.
 
 ## 🔧 Installation
 
@@ -30,17 +24,7 @@ conda activate your-env-name
 python src/train.py --config configs/example.yaml
 python src/evaluate.py --weights model/trained_model.pth
 
-## 📁 Dataset
-
-See data/README.md for data download and preprocessing instructions.
-
-## 📊 Results
-
-Example results are available in the results/ folder.
-
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+note: 整理上述两部分时，请确保通过执行上述安装和运行步骤后，能够正确运行代码，得到实验结果。
 
 ## 🧾 Citation
 
