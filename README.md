@@ -19,6 +19,17 @@ Or using conda:
 conda env create -f environment.yml
 conda activate your-env-name
 
+## 📦 Dataset
+
+The dataset used in this project is hosted on Google Drive due to GitHub’s file size limitations.
+Users are required to download it manually.
+
+🔗 Download Link
+
+📥 Click here to download the dataset(https://drive.google.com/uc?id=YOUR_FILE_ID)
+
+After downloading, extract the contents into the data/ directory.
+
 ## 🏁 Quick Start
 
 python src/train.py --config configs/example.yaml
